@@ -1,0 +1,5 @@
+flink\cep\test\ATMCEPKafka$1.class
+flink\cep\test\ATMFraudEvent.class
+flink\cep\test\ATMCEPKafka.class
+flink\cep\test\ATMFraudSchema.class
+flink\cep\test\ATMFraudAlert.class
